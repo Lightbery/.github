@@ -1,2 +1,2 @@
-# .github
-The profile page for Lightbery
+# Lightbery
+The platform for your favorite arts.
